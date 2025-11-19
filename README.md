@@ -126,7 +126,7 @@ No se permite su uso comercial, copia o distribución sin permiso explícito.
 # 🌍 English Version
 
 <p align="center">
-  <img src="images/neuroos_logo.png" width="180" />
+  <img src="neuro.png" width="180" />
 </p>
 
 <h2 align="center">🧠 NEURO-OS — Symbiotic Self-Programming Operating System</h2>
