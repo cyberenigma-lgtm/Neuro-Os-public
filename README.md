@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="neuroos.png" width="180" />
+  <img src="neuro.png" width="180" />
 </p>
 
 <h1 align="center">🧠 NEURO-OS</h1>
