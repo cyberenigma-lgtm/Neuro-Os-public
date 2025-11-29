@@ -6,7 +6,7 @@
 <h3 align="center">Sistema Operativo Simbiótico de Autoprogramación, Seguridad Avanzada y Evolución Autónoma</h3>
 <p align="center">Autor: <strong>José Manuel Moreno Cano</strong></p>
 
-🇪🇸 NEURO-OS GENESIS — DEMO (ACCESO DIRECTO)
+🇪🇸  DEMO (ACCESO DIRECTO)
 <p align="center"> <a href="https://preelemental-caroline-unecclesiastically.ngrok-free.dev" target="_blank"> <img src="https://img.shields.io/badge/🧠%20ABRIR%20DEMO%20NEURO--OS-00eaff?style=for-the-badge&logo=starship&logoColor=white" /> </a> </p> <p align="center"> <strong>👉 Haz clic arriba para abrir la DEMO OFICIAL en tiempo real.</strong><br> Disponible 24/7 — Servidor personal del autor. </p>
 ---
 
