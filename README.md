@@ -1,6 +1,8 @@
-# 🧠 NEURO-OS GENESIS
-
 <div align="center">
+
+<img src="neuro.png" alt="Neuro-OS Logo" width="200"/>
+
+# 🧠 NEURO-OS GENESIS
 
 ![Version](https://img.shields.io/badge/version-2.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
@@ -613,9 +615,11 @@ Todos los derechos reservados. Prohibida la reproducción, distribución o uso c
 ---
 ---
 
-# 🧠 NEURO-OS GENESIS
-
 <div align="center">
+
+<img src="neuro.png" alt="Neuro-OS Logo" width="200"/>
+
+# 🧠 NEURO-OS GENESIS
 
 ![Version](https://img.shields.io/badge/version-2.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
